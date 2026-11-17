@@ -107,4 +107,4 @@ supply-chain-analytics/
 ## 9. Author
 
 **Priyambada Rout** — Data Analyst, Bangalore
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [Email](mailto:your-email@example.com)
+[LinkedIn](www.linkedin.com/in/priyambada-rout-571655190) · [Email](mailto:routpriyambada111@gmail.com)
