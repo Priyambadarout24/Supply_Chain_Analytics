@@ -24,7 +24,17 @@ Operations, procurement and logistics teams needed one governed view to answer:
 | Logistics & Delivery Performance | On-time vs delayed shipments, courier comparison, transportation cost by state, returns by reason |
 | Order Fulfilment | Revenue, units, fulfilment and cancellation rates, operational exceptions |
 
-Screenshots: see `/images`.
+### Inventory Overview
+![Inventory Overview](images/page_1.png)
+
+### Procurement & Warehouse Performance
+![Procurement & Warehouse Performance](images/page_2.png)
+
+### Logistics & Delivery Performance
+![Logistics & Delivery Performance](images/page_3.png)
+
+### Order Fulfilment
+![Order Fulfilment](images/page_4.png)
 
 ## 3. Key Findings
 
